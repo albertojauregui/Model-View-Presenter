@@ -13,6 +13,7 @@
 		15661E7F1E67F1F4000D1713 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15661E7E1E67F1F4000D1713 /* Assets.xcassets */; };
 		15661E821E67F1F4000D1713 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15661E801E67F1F4000D1713 /* LaunchScreen.storyboard */; };
 		15661E8A1E67F223000D1713 /* MarioKartCharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15661E891E67F223000D1713 /* MarioKartCharacter.swift */; };
+		15661E8C1E67F2E6000D1713 /* MarioKartInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15661E8B1E67F2E6000D1713 /* MarioKartInteractor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		15661E811E67F1F4000D1713 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15661E831E67F1F4000D1713 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15661E891E67F223000D1713 /* MarioKartCharacter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarioKartCharacter.swift; sourceTree = "<group>"; };
+		15661E8B1E67F2E6000D1713 /* MarioKartInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarioKartInteractor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				15661E801E67F1F4000D1713 /* LaunchScreen.storyboard */,
 				15661E831E67F1F4000D1713 /* Info.plist */,
 				15661E891E67F223000D1713 /* MarioKartCharacter.swift */,
+				15661E8B1E67F2E6000D1713 /* MarioKartInteractor.swift */,
 			);
 			path = "WTF MVP";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15661E7A1E67F1F4000D1713 /* ViewController.swift in Sources */,
+				15661E8C1E67F2E6000D1713 /* MarioKartInteractor.swift in Sources */,
 				15661E781E67F1F4000D1713 /* AppDelegate.swift in Sources */,
 				15661E8A1E67F223000D1713 /* MarioKartCharacter.swift in Sources */,
 			);
