@@ -19,7 +19,7 @@ class MarioKartInteractor {
     }
     
     func getMarioKartCharacters(_ callback:@escaping ([MarioKartCharacter]) -> Void){
-        delay(1.5) { 
+        delay(1.0) {
             callback(self.marioKartCharacters)
         }
     }
