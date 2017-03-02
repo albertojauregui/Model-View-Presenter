@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		15661E781E67F1F4000D1713 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15661E771E67F1F4000D1713 /* AppDelegate.swift */; };
-		15661E7A1E67F1F4000D1713 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15661E791E67F1F4000D1713 /* ViewController.swift */; };
+		15661E7A1E67F1F4000D1713 /* MarioKartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15661E791E67F1F4000D1713 /* MarioKartViewController.swift */; };
 		15661E7D1E67F1F4000D1713 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15661E7B1E67F1F4000D1713 /* Main.storyboard */; };
 		15661E7F1E67F1F4000D1713 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15661E7E1E67F1F4000D1713 /* Assets.xcassets */; };
 		15661E821E67F1F4000D1713 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15661E801E67F1F4000D1713 /* LaunchScreen.storyboard */; };
@@ -21,7 +21,7 @@
 /* Begin PBXFileReference section */
 		15661E741E67F1F4000D1713 /* WTF MVP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WTF MVP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15661E771E67F1F4000D1713 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		15661E791E67F1F4000D1713 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		15661E791E67F1F4000D1713 /* MarioKartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarioKartViewController.swift; sourceTree = "<group>"; };
 		15661E7C1E67F1F4000D1713 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		15661E7E1E67F1F4000D1713 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15661E811E67F1F4000D1713 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				15661E771E67F1F4000D1713 /* AppDelegate.swift */,
-				15661E791E67F1F4000D1713 /* ViewController.swift */,
+				15661E791E67F1F4000D1713 /* MarioKartViewController.swift */,
 				15661E7B1E67F1F4000D1713 /* Main.storyboard */,
 				15661E7E1E67F1F4000D1713 /* Assets.xcassets */,
 				15661E801E67F1F4000D1713 /* LaunchScreen.storyboard */,
@@ -150,7 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15661E901E67F501000D1713 /* Presenter.swift in Sources */,
-				15661E7A1E67F1F4000D1713 /* ViewController.swift in Sources */,
+				15661E7A1E67F1F4000D1713 /* MarioKartViewController.swift in Sources */,
 				15661E8C1E67F2E6000D1713 /* MarioKartInteractor.swift in Sources */,
 				15661E781E67F1F4000D1713 /* AppDelegate.swift in Sources */,
 				15661E8A1E67F223000D1713 /* MarioKartCharacter.swift in Sources */,
