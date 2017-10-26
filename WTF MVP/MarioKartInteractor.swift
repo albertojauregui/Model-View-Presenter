@@ -14,7 +14,8 @@ class MarioKartInteractor {
     init() {
         self.marioKartCharacters = [
             MarioKartCharacter(name: "Mario", mail: "mario@mariokart.com"),
-            MarioKartCharacter(name: "Luigi", mail: "luigi@mariokart.com")
+            MarioKartCharacter(name: "Luigi", mail: "luigi@mariokart.com"),
+            MarioKartCharacter(name: "Yoshi", mail: "yoshi@mariokart.com"),
         ]
     }
     
